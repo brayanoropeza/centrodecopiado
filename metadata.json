@@ -1,0 +1,6 @@
+{
+  "name": "Centro de Copiado de Jesús",
+  "description": "Cotizador instantáneo de impresión digital, análisis de cobertura de tinta por píxel, tabla libre y herramientas de caja para centros de copiado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
